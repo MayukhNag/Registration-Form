@@ -1,0 +1,34 @@
+
+body{
+    background: linear-gradient(90deg,#794AB5,#37B6D8);
+}
+.container{
+    margin-top: 30px;
+    background-color: #2C2B69;
+    border-radius:25px;
+    height: 500px;
+    padding: 0%;
+    
+    
+    
+}
+.registration-form{
+    width: 900px;
+    margin: auto;
+    color: white;
+    
+}
+.heading{
+    text-align: center;
+    color: white;
+    background-color: #262157;
+    border-radius: 25px 25px 0px 0px;
+    
+    
+    
+}
+.submit-btn{
+    text-align: center;
+}
+
+
